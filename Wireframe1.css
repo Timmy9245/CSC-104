@@ -1,0 +1,102 @@
+.nav{
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: row;
+}.arrow{
+  height: 55px;
+  width: 55px;
+  margin-left: 10%;
+  margin-top: 1%;
+}.detail{
+    color: white;
+    font-size: 30px;
+    margin-left: 30%;
+    text-align: center;
+}.search{
+    height: 55px;
+    width: 55px;
+    margin-left: 25%;
+    margin-top: 1%;
+    margin-right: 0%;
+}.cart{
+    height: 55px;
+    width: 55px;
+    margin-left: 2%;
+    margin-top: 1%;
+}.bracelet{
+    margin-left: 30%;
+    margin-right: 30%;
+    border-style: solid;
+    border-color: darkgray;
+    margin-top: 2%;
+}.pay{
+    background-color: rgba(61, 255, 47, 0.895);
+    border-radius: 12%;
+    height: 30px;
+    width: 120px;
+    margin-left: 10%;
+    margin-top: 1%
+}.info{
+    margin-left: 10%;
+    margin-top: 1%;
+    font-weight: bolder;
+    font-size: large;
+}.type{
+    margin-left:7%;
+    font-weight: 550;
+    font-size: medium;
+}.discount{
+    margin-left: 7%;
+    font-weight: bolder;
+    font-size: xx-large;
+}.price{
+    margin-left: 14%;
+    text-align: calc(30);
+    margin-top: -4%;
+    margin-bottom: 2%;
+    font-size: unset;
+    stroke-dasharray: 10%;
+}.stock{
+    font-weight: 550;
+    margin-left: 7%;
+}.address{ 
+    font-weight: 550;
+    margin-left: 7%;
+}.more{
+    font-size: unset;
+    color: rgba(151, 151, 253, 0.93);
+    margin-top: -2.4%;
+    margin-left: 22%;
+    text-align: calc(30);
+}.stars{
+    height: 50px;
+    width: 210px;
+    margin-top: 1%;
+    margin-left: 9%;
+}.ratings{
+    font-size: unset;
+    color: rgba(151, 151, 253, 0.93);
+    margin-top: -2.4%;
+    margin-left: 25%;
+    text-align: calc(30);
+}.promotions{
+    color: black;
+    margin-left: 6.5%;
+    margin-top: 8%;
+}.home{
+    height: fit-content;
+    width: 100px;
+    margin-top: -50%;
+    margin-left: 6.5%;
+}.phone{
+    margin-top: -2%;
+}.add{
+    background-color: rgba(56, 254, 42, 0.797);
+    border-radius: 10%;
+    height: 70px;
+    width: 300px;
+    margin-left: 5%;
+    margin-top: -15%;
+    font-weight: bolder;
+    font-size: larger;
+}
